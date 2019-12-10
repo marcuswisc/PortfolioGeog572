@@ -1,2 +1,2 @@
 # PortfolioGeog572
-Portfolio for Geog 572
+Lab 4-2 Geog 572
